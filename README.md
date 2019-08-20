@@ -1,4 +1,4 @@
-<h1>Command line and Git &amp; Github</h1>
+<h1>Useful Resources</h1>
 <ul>
   <li><a href="https://help.github.com/en" target="_blank">Getting started with GitHub</a></li>
 </ul>
@@ -9,6 +9,7 @@
   <li><a href="https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line" target="_blank">Adding an existing project to GitHub using the command line </a></li>
 </ul>
 
+# Git setup
 <p>
 1a. Install Git on your laptop (Mac or windows):
 Head over to the git homepage: https://git-scm.com/download
