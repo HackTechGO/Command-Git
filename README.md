@@ -1,6 +1,7 @@
 # Useful Resources
 <ul>
   <li><a href="https://github.com/HackTechGO/Command-Git/blob/master/git-setup.md">Quick setup</a></li>
+  <li><a href="  https://git-scm.com/book/en/v2">Free Book: Pro Git</a></li>
   <li><a href="https://help.github.com/en">Official: Getting started with GitHub</a></li>
   <li><a href="https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line">Adding an existing project to GitHub using the command line </a></li>
 </ul>
