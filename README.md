@@ -1,13 +1,13 @@
 # MUST
 <ul>
-  <li><a href="https://help.github.com/en">Official: Getting started with GitHub</a></li>
-  <li><a href="https://github.com/HackTechGO/Command-Git/blob/master/git-setup.md">Quick setup</a></li>
   <li>Watch this <a href="https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF">tutorial</a></li>
+  <li><a href="https://github.com/HackTechGO/Command-Git/blob/master/git-setup.md">Quick setup</a></li>
   <li><a href="https://github.com/HackTechGO/Git">HackYourFuture: Crash course</a></li>  
 </ul> 
 
 # Useful Resources
-<ul>
+<ul>   
+  <li><a href="https://help.github.com/en">Official: Getting started with GitHub</a></li>
   <li>Free Book: <a href="https://git-scm.com/book/en/v2">Pro Git</a></li>
   <li><a href="https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line">Adding an existing project to GitHub using the command line </a></li>
   <li><a href="https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch">Git fetch vs Git pull</a>
