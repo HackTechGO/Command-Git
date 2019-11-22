@@ -33,8 +33,10 @@ Head over to https://github.com and create an account, if you don't have one yet
 
 <p> 
 <b>4.</b> Connect your git to github:
-Follow the 3 guides below to generating an ssh key, and associating it with your github account.
-https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
-https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
-https://help.github.com/articles/testing-your-ssh-connection/
+Follow the 3 guides below to generating an ssh key, and associating it with your github account:
+<ol>
+ <li> https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/ </li> 
+ <li> https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/ </li>
+ <li> https://help.github.com/articles/testing-your-ssh-connection/ </li>
+</ol>
 </p> 
