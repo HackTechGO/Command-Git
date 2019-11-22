@@ -22,12 +22,17 @@ Note: the default git version on most Ubuntu installs is a quite old 1.9.1. Usin
 </p> 
 
 <p>
-<b>2.</b> Create a Github account:
+<b>2.</b> First-Time Git Setup:
+ <a href="https://git-scm.com/book/eo/v1/Ekkomenci-First-Time-Git-Setup">Follow the instructions </a>
+</p> 
+
+<p>
+<b>3.</b> Create a Github account:
 Head over to https://github.com and create an account, if you don't have one yet. It does not matter if you use your academic email or private one.
 </p> 
 
 <p> 
-<b>3.</b> Connect your git to github:
+<b>4.</b> Connect your git to github:
 Follow the 3 guides below to generating an ssh key, and associating it with your github account.
 https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
 https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
