@@ -3,6 +3,7 @@
   <li>Watch this <a href="https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF">tutorial</a></li>
   <li><a href="https://github.com/HackTechGO/Command-Git/blob/master/git-setup.md">Quick setup</a></li>
   <li><a href="https://github.com/HackTechGO/Git">HackYourFuture: Crash course</a></li>  
+  <li><a href="https://www.evernote.com/shard/s386/u/0/sh/3412b595-d426-43e9-8640-d5d32951cb4f/c8d0a69a99149b5b70353399895a65e0">Git Work Flow</a></li>
 </ul> 
 
 # Useful Resources
