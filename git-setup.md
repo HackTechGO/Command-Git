@@ -23,7 +23,7 @@ Note: the default git version on most Ubuntu installs is a quite old 1.9.1. Usin
 
 <p>
 <b>2.</b> First-Time Git Setup:
- <a href="https://git-scm.com/book/eo/v1/Ekkomenci-First-Time-Git-Setup">Follow the instructions </a>
+ <a href="https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup">Follow the instructions </a>
 </p> 
 
 <p>
